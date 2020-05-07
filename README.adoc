@@ -1,1 +1,3 @@
 = Book writing playground
+
+This repository is a playground for book writing with asciidoc using the asciidoctor gem.
