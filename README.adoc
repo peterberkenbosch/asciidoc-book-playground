@@ -1,3 +1,13 @@
 = Book writing playground
 
 This repository is a playground for book writing with asciidoc using the asciidoctor gem.
+
+Just start writing and stop figuring out what the best setup is.
+A single line per sentence.
+
+[source, ruby]
+----
+def say(name)
+  "Hello #{name}"
+end
+----
